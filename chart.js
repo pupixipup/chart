@@ -132,6 +132,7 @@ if (!isNaN(Number(aProp))) {
 
       const circleX = 20;
       const textX = 40;
+      legend.append("text").attr("x", 15).attr("y", 100).text("Platforms:").style("font-size", "15px").attr("alignment-baseline","middle")
       legend.append("circle").attr("cx",circleX).attr("cy",130).attr("r", 6).style("fill", "#995D81")
       legend.append("circle").attr("cx",circleX).attr("cy",160).attr("r", 6).style("fill", "#DA8462")
       legend.append("text").attr("x", textX).attr("y", 130).text("Multiple").style("font-size", "15px").attr("alignment-baseline","middle")
