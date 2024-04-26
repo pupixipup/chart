@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bar Chart with D3.js</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <style>
+        * {
+          font-family: Arial, Helvetica, sans-serif;
+        }
+        h2 {
+          text-align: center;
+        }
+        .container {
+          display: flex;
+        }
+    </style>
+</head>
+<body>
+  <h2>Top 10 Best Selling Games</h2>
+  <div class="container">
+    <div id="chart"></div>
+    <svg id="my_dataviz" height=300 width=150></svg>
+  </div>
+<h5>Sort By:</h5>
+    <select id="sortOption">
+      <option value="title">Title</option>
+      <option value="release_year">Release Year</option>
+      <option value="platform">Platform</option>
+      <option value="country_of_production">Country</option>
+      <option selected value="copies_sold_million">Copies Sold (Million)</option>
+    </select>
+    
+    <script src="chart.js"></script>
+</body>
+</html>

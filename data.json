@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Grand Theft Auto V",
+    "platform": "Multiple",
+    "copies_sold_million": 135,
+    "release_year": 2013,
+    "country_of_production": "United States"
+  },
+  {
+    "title": "Minecraft",
+    "platform": "Multiple",
+    "copies_sold_million": 200,
+    "release_year": 2011,
+    "country_of_production": "Sweden"
+  },
+  {
+    "title": "Wii Sports",
+    "platform": "Wii",
+    "copies_sold_million": 82.83,
+    "release_year": 2006,
+    "country_of_production": "Japan"
+  },
+  {
+    "title": "PUBG",
+    "platform": "Multiple",
+    "copies_sold_million": 70,
+    "release_year": 2017,
+    "country_of_production": "South Korea"
+  },
+  {
+    "title": "Super Mario Bros.",
+    "platform": "NES",
+    "copies_sold_million": 40.24,
+    "release_year": 1985,
+    "country_of_production": "Japan"
+  },
+  {
+    "title": "Tetris",
+    "platform": "Multiple",
+    "copies_sold_million": 100,
+    "release_year": 1984,
+    "country_of_production": "Soviet Union"
+  },
+  {
+    "title": "Wii Fit",
+    "platform": "Wii",
+    "copies_sold_million": 22.67,
+    "release_year": 2007,
+    "country_of_production": "Japan"
+  },
+  {
+    "title": "Pac-Man",
+    "platform": "Multiple",
+    "copies_sold_million": 30,
+    "release_year": 1980,
+    "country_of_production": "Japan"
+  },
+  {
+    "title": "Mario Kart 8/Deluxe",
+    "platform": "Wii U/Switch",
+    "copies_sold_million": 43.35,
+    "release_year": 2014,
+    "country_of_production": "Japan"
+  },
+  {
+    "title": "Wii Sports Resort",
+    "platform": "Wii",
+    "copies_sold_million": 33.14,
+    "release_year": 2009,
+    "country_of_production": "Japan"
+  }
+]
